@@ -1,4 +1,4 @@
-# IMAGE-EDITING-WEBSITE
+# IMAGE-EDITING-WEB-APPLICATION
 
 
 An Image Editing Website/Application using Python Flask and OpenCV
